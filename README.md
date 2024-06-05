@@ -1,5 +1,8 @@
 [![Java CI with Gradle](https://github.com/SereZzZ/Project-4-aqa-homeworks-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/SereZzZ/Project-4-aqa-homeworks-patterns/actions/workflows/gradle.yml)
 
+# Отчёт Allure
+![img.png](img.png)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
