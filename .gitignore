@@ -19,7 +19,7 @@ build/
 *.iml
 *.ipr
 out/
-img.png
+*.png
 
 ### NetBeans ###
 /nbproject/private/
